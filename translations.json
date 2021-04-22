@@ -1,6 +1,7 @@
 {
     "shared": {
         "name": "Her skal navn stå",
+        "adresse":"Grenåvej 4342, 8541 Skødstrup",
         "version": "0.01",
         "images": {
             "landing_page": "https://images.unsplash.com/photo-1619089941305-65d654dde46f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
