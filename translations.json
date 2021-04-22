@@ -1,0 +1,12 @@
+{
+    "shared": {
+        "name": "Domain name",
+        "version": "0.01"
+    },
+    "settings": {
+        "icon": {
+            "width": 32,
+            "height": 32
+        }
+    }
+}
